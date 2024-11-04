@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://akopiuva.github.io/Ayj/sitemap_index.txt
+Sitemap: https://akopiuva.github.io/OFS/sitemap_index.txt
+Sitemap: https://akopiuva.github.io/WpY/sitemap_index.txt
+Sitemap: https://akopiuva.github.io/drY/sitemap_index.txt
